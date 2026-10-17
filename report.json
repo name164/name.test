@@ -1,0 +1,131 @@
+{
+  "src": "D:\\agent\\fly\\cs\\pelican-bike\\鹈鹕骑车动画.html",
+  "url": "file:///D:/agent/fly/cs/pelican-bike/%E9%B9%88%E9%B9%95%E9%AA%91%E8%BD%A6%E5%8A%A8%E7%94%BB.html",
+  "outdir": "D:\\agent\\fly\\cs\\pelican-bike\\_shots",
+  "include": [
+    "lint",
+    "screenshots",
+    "structure"
+  ],
+  "shots": {
+    "desktop": {
+      "screenshot": "D:\\agent\\fly\\cs\\pelican-bike\\_shots\\鹈鹕骑车动画_desktop.jpg",
+      "screenshotBytes": 36308,
+      "truncated": false,
+      "structure": {
+        "title": "鹈鹕骑车动画",
+        "firstH1": "",
+        "viewport": {
+          "w": 1406,
+          "h": 756
+        },
+        "fullpage": {
+          "w": 1406,
+          "h": 756
+        },
+        "counts": {
+          "section": 0,
+          "h1": 0,
+          "h2": 0,
+          "img": 0,
+          "canvas": 0,
+          "svg": 1,
+          "links": 0,
+          "buttons": 0
+        }
+      },
+      "consoleErrors": [],
+      "consoleWarnings": [],
+      "horizontalOverflow": [],
+      "resourceErrors": [],
+      "reportSource": "cdp"
+    },
+    "mobile": {
+      "screenshot": "D:\\agent\\fly\\cs\\pelican-bike\\_shots\\鹈鹕骑车动画_mobile.jpg",
+      "screenshotBytes": 20835,
+      "truncated": false,
+      "structure": {
+        "title": "鹈鹕骑车动画",
+        "firstH1": "",
+        "viewport": {
+          "w": 492,
+          "h": 700
+        },
+        "fullpage": {
+          "w": 492,
+          "h": 700
+        },
+        "counts": {
+          "section": 0,
+          "h1": 0,
+          "h2": 0,
+          "img": 0,
+          "canvas": 0,
+          "svg": 1,
+          "links": 0,
+          "buttons": 0
+        }
+      },
+      "consoleErrors": [],
+      "consoleWarnings": [],
+      "horizontalOverflow": [],
+      "resourceErrors": [],
+      "reportSource": "cdp"
+    }
+  },
+  "engine": "chrome_cli",
+  "chromiumExec": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+  "engineDegraded": true,
+  "engineDegradedReason": "playwright 未装",
+  "elapsedSec": 9.32,
+  "schemaVersion": 2,
+  "status": "pass",
+  "engineInfo": {
+    "name": "chrome_cli",
+    "degraded": true,
+    "degradedReasons": [
+      "playwright 未装"
+    ]
+  },
+  "input": {
+    "original": "D:\\agent\\fly\\cs\\pelican-bike\\鹈鹕骑车动画.html",
+    "resolvedPath": "D:\\agent\\fly\\cs\\pelican-bike\\鹈鹕骑车动画.html",
+    "baseUrl": "file:///D:/agent/fly/cs/pelican-bike/%E9%B9%88%E9%B9%95%E9%AA%91%E8%BD%A6%E5%8A%A8%E7%94%BB.html",
+    "protocol": "file",
+    "cwd": "D:\\agent\\fly\\cs",
+    "mediaMode": {
+      "reducedMotion": false
+    }
+  },
+  "artifacts": {
+    "screenshots": [
+      {
+        "viewport": "desktop",
+        "path": "D:\\agent\\fly\\cs\\pelican-bike\\_shots\\鹈鹕骑车动画_desktop.jpg",
+        "size": 36308,
+        "visualCoverage": {
+          "complete": true,
+          "reason": null
+        }
+      },
+      {
+        "viewport": "mobile",
+        "path": "D:\\agent\\fly\\cs\\pelican-bike\\_shots\\鹈鹕骑车动画_mobile.jpg",
+        "size": 20835,
+        "visualCoverage": {
+          "complete": true,
+          "reason": null
+        }
+      }
+    ]
+  },
+  "summary": {
+    "blocker": 0,
+    "error": 0,
+    "warning": 0,
+    "info": 0
+  },
+  "findings": [],
+  "prioritizedActions": [],
+  "reportPath": "D:\\agent\\fly\\cs\\pelican-bike\\_shots\\report.json"
+}
